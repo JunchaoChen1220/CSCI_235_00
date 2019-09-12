@@ -1,0 +1,3 @@
+Athens,Bilbao,Cairo,Detroit,Edinburgh,Firenze,bob
+Athens-Bilbao,Athens-Cairo,Bilbao-Cairo,Bilbao-Detroit,Cairo-Athens,Detroit-Edinburgh,Edinburgh-Firenze,Firenze-Detroit
+bob-Athens,bob-Bilbao,bob-Cairo,bob-Detroit,bob-Edinburgh,bob-Firenze
